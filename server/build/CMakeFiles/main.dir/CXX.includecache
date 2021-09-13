@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dortp68/repos/test/server.cpp
+sys/types.h
+-
+sys/socket.h
+-
+sys/epoll.h
+-
+netinet/in.h
+-
+sys/ioctl.h
+-
+errno.h
+-
+unistd.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+set
+-
+sstream
+-
+

@@ -1,0 +1,3 @@
+/home/dortp68/repos/client/build/CMakeFiles/rebuild_cache.dir
+/home/dortp68/repos/client/build/CMakeFiles/edit_cache.dir
+/home/dortp68/repos/client/build/CMakeFiles/main.dir
